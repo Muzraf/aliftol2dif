@@ -9,3 +9,4 @@ Dependencies:
 
 TODO:
 - add love2d image font to lib allegro image font
+- [idk if this is required] check whether the given image font is love2d's or liballegro's:
