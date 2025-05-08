@@ -1,0 +1,11 @@
+Usage:
+./aliftol2dif.sh input.png output.png
+
+Description:
+converts liballegro supported image font to love2d image font
+
+Dependencies:
+- image-magick
+
+TODO:
+- add love2d image font to lib allegro image font
