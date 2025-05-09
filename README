@@ -1,5 +1,10 @@
 Usage:
+Bash:
 ./aliftol2dif.sh input.png output.png
+
+Love2d:
+alifstr = " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~∆"
+font = love.graphics.newImageFont(output.png, alifstr)
 
 Description:
 converts liballegro supported image font to love2d image font
